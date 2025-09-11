@@ -1,0 +1,15 @@
+.btn-primary{
+    background-color: black;
+    color: white;
+    border: solid black;
+}
+.btn-primary:hover{
+    background-color: white;
+    color: black;
+    border: solid black;
+}
+.btn-primary::selection{
+    background-color: white;
+    color: black;
+    border: solid black;
+}
